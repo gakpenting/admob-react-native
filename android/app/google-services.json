@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "487750258181",
+    "firebase_url": "https://admob-fe584.firebaseio.com",
+    "project_id": "admob-fe584",
+    "storage_bucket": "admob-fe584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487750258181:android:c25e1c8459c759c336d66c",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487750258181-4pl4kp728bspdrq3dieaq2p52avlktl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgmG23QbBDvcGcJDlMZGRoGBGMCPBbtFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487750258181-4pl4kp728bspdrq3dieaq2p52avlktl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487750258181:android:46e78784836920b636d66c",
+        "android_client_info": {
+          "package_name": "com.lucu.banget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487750258181-4pl4kp728bspdrq3dieaq2p52avlktl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgmG23QbBDvcGcJDlMZGRoGBGMCPBbtFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487750258181-4pl4kp728bspdrq3dieaq2p52avlktl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
